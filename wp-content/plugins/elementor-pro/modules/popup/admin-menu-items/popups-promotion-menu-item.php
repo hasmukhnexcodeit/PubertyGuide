@@ -37,7 +37,7 @@ class Popups_Promotion_Menu_Item extends Base_Promotion_Item {
 			: $connect_url;
 	}
 
-	public function get_parent_slug() {
+	public function get_parent_slug(): string {
 		return Source_Local::ADMIN_MENU_SLUG;
 	}
 
