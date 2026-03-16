@@ -20,5 +20,5 @@ define( 'ASTRA_CHILD_INC', ASTRA_CHILD_DIR . 'inc/' );
  * Include Files
  */
 require_once ASTRA_CHILD_INC . 'enqueue-assets.php';
-require_once ASTRA_CHILD_INC . 'inc/custom-function.php';
+require_once ASTRA_CHILD_DIR . 'inc/custom-function.php';
  
