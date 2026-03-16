@@ -1,0 +1,11 @@
+/*
+Theme Name: Astra Child
+Theme URI: https://wpastra.com/
+Description: Astra Child Theme
+Author: Your Name
+Template: astra
+Version: 1.0
+*/
+
+/* Import parent theme style */
+@import url("../astra/style.css");
