@@ -94,8 +94,8 @@ $table_prefix = 'wp_';
  */
 define( 'WP_DEBUG', false );
 
-define('WP_POST_REVISIONS', 5); // keep only 5 revisions
-// define('WP_POST_REVISIONS', false);
+// define('WP_POST_REVISIONS', 5); // keep only 5 revisions
+define('WP_POST_REVISIONS', false);
 
 /* Add any custom values between this line and the "stop editing" line. */
 
